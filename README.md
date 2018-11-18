@@ -1,6 +1,6 @@
 # wearablecleaningdata
 
-This contns a few files and is responsible for ensuring that we get tidy data from a larger data
+This contains a few files and is responsible for ensuring that we get tidy data from a larger data
 
 This repository contains:
 
